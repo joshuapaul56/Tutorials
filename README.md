@@ -1,1 +1,2 @@
-https://github.com/joshuapaul56/Tutorials/Art109.git
+https://joshuapaul56/github.io/art-109/tutorials.git
+
